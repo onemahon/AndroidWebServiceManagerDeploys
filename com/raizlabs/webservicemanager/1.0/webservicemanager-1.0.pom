@@ -13,5 +13,11 @@
       <version>22.2.0</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.raizlabs</groupId>
+      <artifactId>CoreUtils</artifactId>
+      <version>1.1.0</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
