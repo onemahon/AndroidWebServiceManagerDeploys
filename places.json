@@ -215,18 +215,11 @@
       "image_url":"http://res.cloudinary.com/azandriacloud/image/upload/v1445236450/ht0zusmffzpav1lgkt1r.jpg",
       "cards":[
          {
-            "title":"Geography",
-            "button_text":"Open in Maps",
-            "image":"http://res.cloudinary.com/azandriacloud/image/upload/v1449733844/card_image_map_maufjq.png",
-            "url":"geo:43.829318,-72.8183337?z=7.8",
-            "content":""
-         },
-         {
-            "title":"Flights",
-            "button_text":"Check Hopper",
-            "image":"http://res.cloudinary.com/azandriacloud/image/upload/v1449733843/card_image_hopper_i8hcij.png",
-            "url":"https://www.hopper.com",
-            "content":""
+            "title":"General Info",
+            "button_text":"Open Wikipedia",
+            "image":"http://res.cloudinary.com/azandriacloud/image/upload/v1449733843/card_image_wikipedia_dokadw.png",
+            "url":"https://en.wikipedia.org/wiki/New_Hampshire",
+            "content":"New Hampshire is a state in the New England region of the northeastern United States. It is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east, and the Canadian province of Quebec to the north. New Hampshire is the 5th smallest by land area, and the 9th least populous of the 50 United States."
          },
          {
             "title":"Travel Tips",
@@ -243,12 +236,19 @@
             "content":"Britain's American colonies broke with the mother country in 1776 and were recognized as the new nation of the United States of America following the Treaty of Paris in 1783. During the 19th and 20th centuries, 37 new states were added to the original 13 as the nation expanded across the North American continent and acquired a number of overseas possessions. The two most traumatic experiences in the nation's history were the Civil War (1861-65), in which a northern Union of states defeated a secessionist Confederacy of 11 southern slave states, and the Great Depression of the 1930s, an economic downturn during which about a quarter of the labor force lost its jobs. Buoyed by victories in World Wars I and II and the end of the Cold War in 1991, the US remains the world's most powerful nation state. Since the end of World War II, the economy has achieved relatively steady growth, low unemployment and inflation, and rapid advances in technology."
          },
          {
-            "title":"General Info",
-            "button_text":"Open Wikipedia",
-            "image":"http://res.cloudinary.com/azandriacloud/image/upload/v1449733843/card_image_wikipedia_dokadw.png",
-            "url":"https://en.wikipedia.org/wiki/New_Hampshire",
-            "content":"New Hampshire is a state in the New England region of the northeastern United States. It is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east, and the Canadian province of Quebec to the north. New Hampshire is the 5th smallest by land area, and the 9th least populous of the 50 United States."
-         }
+            "title":"Geography",
+            "button_text":"Open in Maps",
+            "image":"http://res.cloudinary.com/azandriacloud/image/upload/v1449733844/card_image_map_maufjq.png",
+            "url":"geo:43.829318,-72.8183337?z=7.8",
+            "content":""
+         },
+         {
+            "title":"Flights",
+            "button_text":"Check Hopper",
+            "image":"http://res.cloudinary.com/azandriacloud/image/upload/v1449733843/card_image_hopper_i8hcij.png",
+            "url":"https://www.hopper.com",
+            "content":""
+         },
       ]
    }
 ]
